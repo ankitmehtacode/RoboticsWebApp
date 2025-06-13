@@ -1,0 +1,1 @@
+// FloatingElements component placeholder
